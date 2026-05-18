@@ -1,5 +1,6 @@
 # python-mini-projects
 # 🐍 Python Mini Projects
+# made by swapnil panchal cse sfi 
 
 A collection of terminal-based mini projects built in Python.
 
