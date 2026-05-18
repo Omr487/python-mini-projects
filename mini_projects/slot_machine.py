@@ -5,7 +5,7 @@ def spin_row():
     return [random.choice(symbols) for _ in range(3)]
 
 def print_row(row):
-    print(" | ".join(row))  # fixed: joint -> join
+    print(" | ".join(row)) 
 
 def get_payout(row, bet):
     if row[0] == row[1] == row[2]:
