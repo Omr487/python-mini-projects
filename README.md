@@ -51,6 +51,9 @@ A multiple choice quiz game.
 A terminal shopping cart system.
 - Add items and calculate total
 
+### 🔗 Encryption Program
+Convert the normal text into encrypted one and vice versa.
+
 ---
 
 ## ▶️ How to Run
